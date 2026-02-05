@@ -25,9 +25,12 @@ A production-style backend system built with FastAPI that ingests application lo
 4. Alert emails are sent automatically
 5. Alerts can be queried via GET /alerts
 
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/2ef47d67-f838-4683-bbab-ad6277eac067" />
+
 ## How to Run
 ```bash
 pip install -r requirements.txt
 uvicorn app.main:app --reload
 ```
 Visit http://127.0.0.1:8000/docs
+
