@@ -27,10 +27,15 @@ A production-style backend system built with FastAPI that ingests application lo
 
 <img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/2ef47d67-f838-4683-bbab-ad6277eac067" />
 
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/83f05299-875b-4c09-ab65-5cefd17a9fbb" />
+
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/bfcb582d-b844-4f3b-bac9-48e4087579a6" />
+
 ## How to Run
 ```bash
 pip install -r requirements.txt
 uvicorn app.main:app --reload
 ```
 Visit http://127.0.0.1:8000/docs
+
 
