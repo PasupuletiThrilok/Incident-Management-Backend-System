@@ -59,6 +59,19 @@ Ticket Management APIs<br>
 
 Each layer is decoupled to allow easy extension and maintenance.
 
+
+## API Screenshots
+
+### Swagger API Overview
+<img width="1920" height="1668" alt="image" src="https://github.com/user-attachments/assets/c9ae0751-3b66-4416-a921-9dc58068fec8" />
+
+### Incident Tickets
+<img width="1920" height="3109" alt="image" src="https://github.com/user-attachments/assets/31b8fbb6-ede3-4d33-bfde-3d038de50083" />
+
+### SLA Tracking
+<img width="1920" height="3109" alt="image" src="https://github.com/user-attachments/assets/dc3b8e43-408f-40e8-b771-04bb29e0c04d" />
+
+
 ## Tech Stack
 
 - Python 3.10
@@ -112,3 +125,4 @@ It focuses on backend design, workflow enforcement, and reliability, rather than
 
 ## Caution
 This project is intended for learning and demonstration purposes only.
+
